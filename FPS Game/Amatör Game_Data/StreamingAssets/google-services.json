@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161374498564",
+    "project_id": "fps-game-database-1ef38",
+    "storage_bucket": "fps-game-database-1ef38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161374498564:android:d8d9981479f1662e13aa51",
+        "android_client_info": {
+          "package_name": "com.DevCompany.Firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIabWbs_uaNPywhi6s0Ks8HtC9IL9Uq88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
